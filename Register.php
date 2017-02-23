@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("mysql10.000webhost.com", "a3288368_user", "abcd1234", "a3288368_data");
+    $con = mysqli_connect("localhost","id898641_twesley","21TYrone!!","id898641_flashcardchem");
     
     $name = $_POST["name"];
     $age = $_POST["age"];
